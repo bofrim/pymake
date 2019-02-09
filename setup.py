@@ -21,7 +21,7 @@ setup(
     description=("My fork of the Mozilla pymake project."),
     long_description=long_description,
     author="Brad Ofrim",
-    author_email="bofrim@bofrim.com",
+    author_email="bofrim@gmail.com",
     url="https://github.com/bofrim/pymake",
     packages=[_pkg_name],
     include_package_data=True,
