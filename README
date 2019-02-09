@@ -62,3 +62,6 @@ Initial code was written by Benjamin Smedberg <benjamin@smedbergs.us>. For futur
 http://benjamin.smedbergs.us/pymake/
 
 See the LICENSE file for license information (MIT license)
+
+INSTALLATION
+Use: pip install -e git+https://github.com/bofrim/pymake.git#egg=pymake
